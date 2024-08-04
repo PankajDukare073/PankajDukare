@@ -16,6 +16,10 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
 - **Spring Framework:** ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 - **Databases:** ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
+##hackerrank badge
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20star-brightgreen)](https://www.hackerrank.com/yourusername)
+
+
 ## 💼 Projects
 
 - **[Hotel Booking App](#):** A dynamic web application built using React.js for hotel reservations. Technologies used: HTML, CSS, JavaScript, React.js.
