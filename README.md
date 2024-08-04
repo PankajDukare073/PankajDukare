@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pankaj Babaji Dukare 👋
 
-- 🌍 **Location:** [Your Location]
-- 🧑‍💻 **Profession:** Software Developer
-- 🔭 **Currently Working On:** [Project/Technology]
-- 🌱 **Learning:** [Technology/Skill]
-- 📫 **How to Reach Me:** [Email/LinkedIn/Twitter]
+- 🌍 **Location:** Pune
+- 🧑‍💻 **Profession:** Full Stack Developer
+- 🔭 **Currently Working On:** AgriMart
+- 🌱 **Learning:** Spring Framework
+- 📫 **How to Reach Me:** https://www.linkedin.com/in/pankaj-dukare-774329320/
