@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
 - 🧑‍💻 **Profession:** Full Stack Developer
 - 🔭 **Currently Working On:** AgriMart
 - 🌱 **Learning:** Spring Framework
-- 📫 **How to Reach Me:** https://www.linkedin.com/in/pankaj-dukare-774329320/
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/pankaj-dukare-10a408206/)
+
 ## 🛠 Skills
 
 - **Languages:**
@@ -15,6 +16,7 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 - **Web Technologies:**
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,27 +32,42 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
 
 - **Spring Framework:**
   - ![Spring Core](https://img.shields.io/badge/-Spring%20Core-6DB33F?style=flat&logo=spring&logoColor=white)
-  - ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-  - ![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
   - ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+  - ![Spring JPA](https://img.shields.io/badge/-Spring%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+  - ![Spring REST](https://img.shields.io/badge/-Spring%20REST-6DB33F?style=flat&logo=spring&logoColor=white)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
   - ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
+  - ![Spring AOP](https://img.shields.io/badge/-Spring%20AOP-6DB33F?style=flat&logo=spring&logoColor=white)
   - ![Spring Test](https://img.shields.io/badge/-Spring%20Test-6DB33F?style=flat&logo=spring&logoColor=white)
 
 - **Databases:**
   - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
   - ![PL/SQL](https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
+- **Data Structures:**
+  - Array, Stack, Queue, Tree, Graph, Searching Algorithms, Sorting Algorithms
 
-##hackerrank badge
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20star-brightgreen)](https://www.hackerrank.com/yourusername)
+- **Version Control:**
+  - Git & GitHub
 
+- **IDEs:**
+  - ![Spring Tool Suite](https://img.shields.io/badge/-STS-6DB33F?style=flat&logo=spring&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  - ![Visual Studio](https://img.shields.io/badge/-VS%20Community-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ## 💼 Projects
 
-- **[Hotel Booking App](#):** A dynamic web application built using React.js for hotel reservations. Technologies used: HTML, CSS, JavaScript, React.js.
-- **[Smart Home Service](#):** A platform offering home services like plumbing, painting, etc. Technologies used: HTML, CSS, JavaScript, PHP, MySQL.
-- **[ML-Based Child Immunization System](#):** Automates vaccination scheduling and reminders. Technologies used: HTML, CSS, AI & Machine Learning, Python, Django.
-- **[Online Attendance and Performance Alert System](#):** Manages student attendance and performance alerts. Technologies used: HTML, CSS, JavaScript, JSP, MySQL, Apache Tomcat, SMS Gateway.
+- **[Hotel Booking App](#):** A dynamic web application built using React.js for hotel reservations.
+  - Technologies: HTML, CSS, JavaScript, React.js.
+
+- **[Smart Home Service](#):** A platform offering home services like plumbing, painting, etc.
+  - Technologies: HTML, CSS, JavaScript, PHP, MySQL.
+
+- **[ML-Based Child Immunization System](#):** Automates vaccination scheduling and reminders.
+  - Technologies: HTML, CSS, AI & Machine Learning, Python, Django.
+
+- **[Online Attendance and Performance Alert System](#):** Manages student attendance and performance alerts.
+  - Technologies: HTML, CSS, JavaScript, JSP, MySQL, Apache Tomcat, SMS Gateway.
 
 ## 📜 Certifications
 
@@ -58,9 +75,9 @@ Welcome to my GitHub profile! I’m a passionate developer skilled in various te
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/pankaj-dukare-10a408206/)
+- [GitHub](https://github.com/pankajdukare73)
 
-## GitHub Stats
+## 🌟 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajdukare73&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
